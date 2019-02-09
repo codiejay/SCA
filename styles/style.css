@@ -483,3 +483,27 @@ footer h3{
         height: 120%;
     }
 }
+
+
+/* THE STYLE ADJUST FOR TABLET VIEW. */
+
+
+@media(max-width: 768px){
+/* Start of NavBar Tablet */
+    nav ul li{
+        font-size: 1.2em;
+    }
+
+}
+/* End of NavBar Tablet */
+
+/* STARt of CultureBox Tablet */
+ 
+    .cultureList{
+        width: 90%;
+    }
+
+/* End of CultureBox Tablet */
+
+
+/* END THE STYLE ADJUST FOR TABLET VIEW. */
