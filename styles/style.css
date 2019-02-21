@@ -478,10 +478,10 @@ nav ul li:hover{
 .footerTop ul li:hover{
      background-color: white;
      color: var(--official-purple);
-     width: 60%;
+     width: 80%;
      border-radius: 200px;
      padding: 0 0.6em;
-     transform: scale(1.1);
+     transform: scale(1);
      transition: all 0.7s;
 }
 
@@ -498,13 +498,11 @@ nav ul li:hover{
 .rights p{
     text-align: right;
     padding: 0 1em;
-    font-size: 0.8em;
 }
-
 .rights h3{
     font-size: 1em;
     font-weight: lighter;
-    padding: 0 1em;
+    padding: 0 0.3em;
     
 }
 
